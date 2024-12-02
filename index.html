@@ -83,8 +83,8 @@
     <!-- Awal Jumbotron -->
     <section class="jumbotron text-center">
       <img
-        src="img/ariii.jpg"
-        alt="Aul"
+        src="ariii.jpg"
+        alt="Ari"
         width="200"
         class="rounded-circle img-thumbnail"
       />
@@ -146,7 +146,7 @@
           <div class="col-md-4 mb-3">
             <div class="card">
               <img
-                src="img/ariii.jpg"
+                src="ariii.jpg"
                 class="card-img-top"
                 alt="..."
               />
@@ -158,7 +158,7 @@
           <div class="col-md-4 mb-3">
             <div class="card">
               <img
-                src="img/ariii.jpg"
+                src="ariii.jpg"
                 class="card-img-top"
                 alt="..."
               />
@@ -170,7 +170,7 @@
           <div class="col-md-4 mb-3">
             <div class="card">
               <img
-                src="img/ariii.jpg"
+                src="ariii.jpg"
                 class="card-img-top"
                 alt="..."
               />
